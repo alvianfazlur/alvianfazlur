@@ -1,8 +1,8 @@
-👋 Hi, I’m @alvianfazlur
-👀 I’m interested in Software and Web developing
-🌱 I’m currently learning OOP, Laravel
-💞️ Single Fighter
-📫 How to reach me instagram.com/alvianfazlur
+👋 Hi, I’m @alvianfazlur <br>
+👀 I’m interested in Software and Web developing<br>
+🌱 I’m currently learning OOP, Laravel<br>
+💞️ Single Fighter<br>
+📫 How to reach me instagram.com/alvianfazlur<br>
 
 <!---
 alvianfazlur/alvianfazlur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
