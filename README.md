@@ -1,6 +1,6 @@
 👋 Hi, I’m @alvianfazlur <br>
 👀 I’m interested in Software and Web developing<br>
-🌱 I’m currently learning OOP, Laravel<br>
+🌱 I’m currently learning<br>
 💞️ Single Fighter<br>
 📫 How to reach me instagram.com/alvianfazlur<br>
 
